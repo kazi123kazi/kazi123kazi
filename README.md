@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/kazi-sahariar-rahi/">
     <img align="left" alt="Kazi Sahariar Rahi | Linkedin" width="35px" src="https://github.com/kazi123kazi/kazi123kazi/blob/master/Assets/linkedin.svg" />
   </a>
-  <a href="https://twitter.com/Capturing_eye">
+  <a href="https://twitter.com/KajiRahi">
     <img align="left" alt="Kazi Sahariar Rahi| Twitter" width="35px" src="https://github.com/kazi123kazi/kazi123kazi/blob/master/Assets/twitter.svg" />
   </a>
  
