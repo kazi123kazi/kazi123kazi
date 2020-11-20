@@ -1,7 +1,7 @@
 <h3 align="left">
  <abc>
   <br> 👋 Hi, I'm Kazi Sahariar Rahi. <img src="https://github.com/kazi123kazi/kazi123kazi/blob/master/Assets/boy.png" width="30px" align="center"><br> 
-<br> I'm a Undergraduate Second Year Student <br>
+<br> I'm a Undergraduate Pre final year Student <br>
 <br> pursuing Electrical Engineering at NIT Silchar. <br>
   <br>
    </abc>
