@@ -1,7 +1,7 @@
 <h3 align="left">
  <abc>
   <br> 👋 Hi, I'm Kazi Sahariar Rahi. <img src="https://github.com/kazi123kazi/kazi123kazi/blob/master/Assets/boy.png" width="30px" align="center"><br> 
-<br> I'm a Undergraduate Pre final year Student <br>
+<br> I'm a Undergraduate final year Student <br>
 <br> pursuing Electrical Engineering at NIT Silchar. <br>
   <br>
    </abc>
@@ -10,7 +10,7 @@
  
 - 🔭 I’m currently working on **Android Development**.
 - 🌱 I’m currently learning **Web Development**
-- 👯 I’m looking to collaborate on differnt projects of Web Development & Android Development.
+- 👯 I’m looking to collaborate on differnt projects.
 - 💬 Ask me about anything :)
 - 📫 How to reach me: **[Linkedin](www.linkedin.com/in/kazi-sahariar-rahi)**
 - ⚡ Fun fact: I likes to interact with new people
